@@ -4,10 +4,10 @@
 }
 .cabecalho {
     background-color:#383D58
-    color:white;
- display: flex;
- justify-content: space-around;   
- padding: 24px 0;
+    colorwhite;
+   display: flex;
+  justify-content: space-around;   
+  padding: 24px 0;
 }
  .cabecalho-imagem{
   width: 20%;
@@ -35,3 +35,6 @@
   .escola-titulo{
     padding: 24px 0;
   }
+  body{
+  font-family: 'Poppins', sans-serif;
+}
