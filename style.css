@@ -22,7 +22,7 @@
     width: 25%;
   }
   .escola{
-    background-image: linear-gradient(#cd2d9d,#96708e);
+    background-image: linear-gradient(#0d185f,#40e253);
     color: white;
     display: flex;
     justify-content: center;
@@ -39,7 +39,7 @@
   font-family: 'Poppins', sans-serif;
 }
 .estudante-imagem{
-  width: 800px
+  width: 600px
  }
  .estudante-icone{
   width: 24px;
