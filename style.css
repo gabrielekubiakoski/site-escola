@@ -22,7 +22,7 @@
     width: 25%;
   }
   .escola{
-    background-image: linear-gradient(#4e588d,#5f80bc);
+    background-image: linear-gradient(#011515,#5fbca2);
     color: white;
     display: flex;
     justify-content: center;
@@ -42,7 +42,7 @@
   width: 450px
  }
  .estudante-icone{
-  width: 24px;
+  width: 240px;
  }
  .estudante-div{
   text-align: center;
