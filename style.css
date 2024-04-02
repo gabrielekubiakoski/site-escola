@@ -50,3 +50,8 @@
  .estudante-todos{
   display: gri;
  }
+ footer{ 
+  background-color: black;
+  padding: 15px 0;
+  text-align: center ;
+ }
