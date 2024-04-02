@@ -48,7 +48,8 @@
   text-align: center;
  }
  .estudante-todos{
-  display: gri;
+  display: grid;
+  grid-template-columns: 30% 10% 30%;
  }
  footer{ 
   background-color: black;
