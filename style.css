@@ -27,13 +27,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 240px 0;
   }
   .escola-conteudo{
     width: 35%;
   }
   .escola-titulo{
-    padding: 240px 0;
+    padding: 24px 0;
   }
   body{
   font-family: 'Poppins', sans-serif;
